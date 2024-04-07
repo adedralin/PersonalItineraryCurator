@@ -1,0 +1,45 @@
+Golden Gate Bridge: 10, Lands End-20, China Beach-25, Presidio-5, Baker Beach-10, Palace of Fine Arts-20, Fort Mason-30
+Chase Center: 6, Bernal Heights Park-50, Oracle Park-5, Bay Bridge-10, Ferry Building-15, Stagecoach Greens-10
+Oracle Park: 7, Chase Center-5, Bay Bridge-7, Ferry Building-9, Exploratorium-20, Stagecoach Greens-13
+Bay Bridge: 8, Salesforce Tower-19, Oracle Park-7, Chase Center-10, Ferry Building-5, Exploratorium-8, Pier 39-18
+Ferry Building: 8, Salesforce Tower-15, Chase Center-15, Oracle Park-9, Bay Bridge-5, Exploratorium-5, Coit Tower-30, Pier 39-15
+Exploratorium: 7, Coit Tower-25, Pier 39-10, Ghirardelli Square-20, Ferry Building-5, Bay Bridge-8, Oracle Park-20
+Pier39: 8, Lombard Street-20, Ferry Building-15, Exploratorium-10, Coit Tower-20, Ghirardelli Square-24, Bay Bridge-18
+Ghirardelli Square: 7, Lombard Street-15, Pier 39-24, Exploratorium-24, Palace of Fine Arts-30, Fort Mason-20, Coit Tower-40
+Fort Mason: 5, Lombard Street-25, Ghirardelli Square-20, Palace of Fine Arts-25, Golden Gate Bridge-30, Presidio-45
+China Beach: 7, Lands End-10, Golden Gate Bridge-25, Golden Gate Park-40, Ocean Beach-30
+Stonestown: 3, SF Zoo-15, Ocean Beach-30, Moraga Street Steps-45, Mt Davidson-40
+Alamo Square: 8, City Hall-10, Japantown-20, Golden Gate Park-25, Buena Vista Park-20
+City Hall: 7, Alamo Square-10, Financial District-25, Japantown-27, Union Square-20
+Alcatraz: 9
+Randall Museum: 4, Castro Theater-8, Buena Vista Park-10, Haight Ashbury-16
+Castro Theater: 8, Twin Peaks-20, Randall Museum-8, Buena Vista Park-15, Mt Davidson-25, Dolores Park-15
+Buena Vista Park: 4, Alamo Square-20, Randall Museum-10, Castro Theater-15, Haight Ashbury-4
+Mt Davidson: 7, Castro Theater-25, Stonestown-40, Twin Peaks-15
+Bernal Heights Park: 5, Chase Center-50, Dolores Park-35, Balmy Alley-33
+Dolores Park: 8, Bernal Heights Park-35, Balmy Alley-10, Castro Theater-15
+Golden Gate Park: 9, China Beach-40, Ocean Beach-15, Alamo Square-25, Moraga Street Steps-28
+Stagecoach Greens: 5, Oracle Park-13, Chase Center-10
+Presidio: 7, Golden Gate Bridge-5, Fort Mason-45
+Palace of Fine Arts: 7, Golden Gate Bridge-20, Ghirardelli Square-30
+Balmy Alley: 8, Bernal Heights Park-33, Dolores Park-10
+Japantown: 7, Alamo Square-20, City Hall-27, Financial District-34, Fort Mason-55
+Chinatown: 8, Financial District-8, Union Square-5, Coit Tower-25, Salesforce Tower-10
+Union Square: 4, Chinatown-5, City Hall-20, Financial District-3, Salesforce Tower-8
+Salesforce Tower: 5, Union Square-8, Chinatown-12, Ferry Building-15, Bay Bridge-19, Financial District-2
+Lombard Street: 6, Ghirardelli Square-15, Pier 39-20, Fort Mason-25
+Ocean Beach: 6, China Beach-30, Golden Gate Park-15, Stonestown-30, SF Zoo-35
+Twin Peaks: 9, Castro Theater-20, Mt Davidson-15, Haight Ashbury-35
+Lands End: 6, China Beach-10, Golden Gate Bridge-20
+Haight Ashbury: 5, Twin Peaks-35, Buena Vista Park-4, Randall Museum-16
+SF Zoo: 3, Stonestown-15, Ocean Beach-35
+Coit Tower: 8, Pier 39-20, Ghirardelli Square-40, Exploratorium-25, Ferry Building-30, Chinatown-25
+Moraga Street Steps: 5, Stonestown-45, Golden Gate Park-28
+Baker Beach: 8, Golden Gate Bridge-10
+Financial District: 6, City Hall-25, Japantown-34, Chinatown-8, Union Square-3, Salesforce Tower-2
+Turing Turnover: 2
+Encapsulation Lane: 5
+Philz Coffee: 1
+The Banana Boat Flamethrower Factory: 2
+EigenVerse: 10
+Dougherty Drive: 10
